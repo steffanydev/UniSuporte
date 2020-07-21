@@ -10,11 +10,17 @@ permite gerenciar a manutenção de computadores.
 
 # Funcionalidades da aplicação
 [ ] Cadastrar computador com um id, cliente, relato e status. Por padrão, ao cadastrar um computador ele deve ser cadastrado com o status “na fila”.
+
   Exemplo de um computador cadastrado:
+  
     ID: 1
+    
     CLIENTE: João
+    
     RELATO: computador não liga
+    
     STATUS: na fila
+    
     
 [ ] Atualizar o status de um computador para “em manutenção” ou “concluído”.
 
