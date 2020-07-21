@@ -15,6 +15,9 @@ permite gerenciar a manutenção de computadores.
     CLIENTE: João
     RELATO: computador não liga
     STATUS: na fila
+    
 [] Atualizar o status de um computador para “em manutenção” ou “concluído”.
+
 [] Listar os computadores filtrando pelo status “na fila”, “em manutenção” ou “concluído”.
+
 [] Remover um computador pelo ID.
