@@ -2,9 +2,9 @@
     APLICAÇÃO - UniSuporte (Sistema de gerenciamento na manutenção de computadores)
 '''
 
-import _sqlite3
+import sqlite3
 
-banco = _sqlite3.connect('uniSuporte.db')
+banco = sqlite3.connect('uniSuporte.db')
 sql = banco.cursor()
 opcao  = ''
 
